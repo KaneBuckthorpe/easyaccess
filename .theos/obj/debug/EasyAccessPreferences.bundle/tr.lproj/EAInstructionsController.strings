@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>1st double tap will hide the dock, giving you easier access to the window.</key>
+	<string>Bir kez çift dokunulduğunda, belleğe alır pencereye daha kolay erişebilirsiniz.</string>
+	<key>1st tap will launch the app in the background if needed.</key>
+	<string>Bir kez basın, uygulamayı arka planda başlatacak.</string>
+	<key>2nd double tap will show the dock, allowing for changing of the chosen app and closing the window.</key>
+	<string>2. çift dokunuş, Dock’ı göstererek seçilen uygulamanın değiştirilmesine ve pencerenin kapatılmasına olanak tanır.</string>
+	<key>2nd tap will open the tapped app in an window.</key>
+	<string>İkinci bir tıklama, uygulamayı pencerede açacaktır.</string>
+	<key>3rd tap will close the window ready for a new app.</key>
+	<string>Üçüncü tıklama uygulama penceresini kapatır.</string>
+	<key>Dock - Drag</key>
+	<string>Dock - Sürükle ve Bırak</string>
+	<key>Dock - Pinch in or out</key>
+	<string>Dok - Kıstırma veya Çıkma</string>
+	<key>Dock - Swipe</key>
+	<string>Dock - Çarpma</string>
+	<key>Double tapping any icon will launch the app normally.</key>
+	<string>Uygulamayı normal modda başlatmak için simgeye çift tıklayın.</string>
+	<key>Icon - Double Tapped</key>
+	<string>Simgeler - Çift Dokunun</string>
+	<key>Icons - Tapped</key>
+	<string>Simgeler - Dokunma</string>
+	<key>Instructions</key>
+	<string>Talimatlar</string>
+	<key>Swiping the dock allows to easy scroll through apps.</key>
+	<string>Diğer uygulamalara erişmek için hızlıca kaydırın.</string>
+	<key>Touching anywhere on the dock and dragging allows you to move and reposition the dock wherever you wish.</key>
+	<string>Bağlantı birimini tıklayıp size uygun herhangi bir yere sürükleyin.</string>
+	<key>Touching anywhere on the window's bar and dragging allows you to move and reposition the window wherever you wish, saving separate locations for horizontal and vertical apps.</key>
+	<string>Pencerenin çubuğunda herhangi bir yere dokunup sürüklemek, pencereyi istediğiniz yere taşımanıza ve yeniden konumlandırmanıza, yatay ve dikey uygulamalar için ayrı konumlar kaydetmenize olanak tanır.</string>
+	<key>Using 2 fingers you can pinch in the bottom bar to shrink the window, or pinch out to stretch it.</key>
+	<string>2 parmağınızı kullanarak pencereyi küçültmek veya genişletmek için alt çubuğu tutabilirsiniz.</string>
+	<key>Using 2 fingers you can pinch in the dock to shrink it, or pinch out to stretch it.</key>
+	<string>Dock’ın boyutunu ufaltmak veya artırmak için iki parmağınızı kullanın.</string>
+	<key>Window bar - Double tap</key>
+	<string>Pencere çubuğu - Çift Dokunma</string>
+	<key>Window bar - Drag</key>
+	<string>Pencere çubuğu - sürükle ve bırak</string>
+	<key>Window bar - Pinch in or out</key>
+	<string>Pencere çubuğu - içeriden veya dışarıdan kıstırın</string>
+</dict>
+</plist>

@@ -1,0 +1,2 @@
+@interface EABaseView :UIView
+@end

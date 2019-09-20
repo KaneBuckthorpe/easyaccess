@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Appearance</key>
+	<string>Görünüm</string>
+	<key>Apps to display</key>
+	<string>Görüntülenecek Uygulamalar</string>
+	<key>Developer</key>
+	<string>Yazılımcı</string>
+	<key>Instructions</key>
+	<string>Talimatlar</string>
+	<key>Options</key>
+	<string>Seçenekler</string>
+    <key>Translators</key>
+    <string>tercümanlar</string>
+    <key>Serif61 - Turkish</key>
+    <string>Serif61 - Türkçe</string>
+</dict>
+</plist>

@@ -1,0 +1,9 @@
+Package: com.kaneb.easyaccess
+Name: EasyAccess
+Depends: mobilesubstrate, com.kaneb.kbapplist, com.kaneb.kbpreferences
+Version: 0.1.2
+Architecture: iphoneos-arm
+Description: Easy dock like app launcher. Usable everywhere but the lock screen. Requires activator 
+Maintainer: Kane Buckthorpe
+Author: Kane Buckthorpe
+Section: Tweaks

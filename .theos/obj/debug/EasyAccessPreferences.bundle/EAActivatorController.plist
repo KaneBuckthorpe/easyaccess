@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>activatorListener</key>
+			<string>com.easyaccess.show</string>
+			<key>bundle</key>
+			<string>LibActivator</string>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>icon</key>
+			<string>icon.png</string>
+			<key>isController</key>
+			<true/>
+			<key>label</key>
+			<string>Show</string>
+		</dict>
+		<dict>
+			<key>activatorListener</key>
+			<string>com.easyaccess.hide</string>
+			<key>bundle</key>
+			<string>LibActivator</string>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>icon</key>
+			<string>icon.png</string>
+			<key>isController</key>
+			<true/>
+			<key>label</key>
+			<string>Hide</string>
+		</dict>
+		<dict>
+			<key>activatorListener</key>
+			<string>com.easyaccess.toggleshowing</string>
+			<key>bundle</key>
+			<string>LibActivator</string>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>icon</key>
+			<string>icon.png</string>
+			<key>isController</key>
+			<true/>
+			<key>label</key>
+			<string>Show/Hide</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>Activator</string>
+</dict>
+</plist>

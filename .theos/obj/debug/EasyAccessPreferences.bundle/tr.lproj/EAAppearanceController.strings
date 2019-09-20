@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Appearance</key>
+	<string>Görünüm</string>
+	<key>Apps per page:</key>
+	<string>Sayfadaki Simgeler:</string>
+	<key>Border width:</key>
+	<string>Kenar Genişliği:</string>
+	<key>Cell size:</key>
+	<string>Hücre Boyutu:</string>
+	<key>Corner radius:</key>
+	<string>Köşe Yarıçapı:</string>
+	<key>Dock</key>
+	<string>Dock</string>
+	<key>Dock gradient</key>
+	<string>Dock‘ı Vurgula</string>
+	<key>Dock thickness:</key>
+	<string>Dock Kalınlığı:</string>
+	<key>Round icons</key>
+	<string>Yuvarlak Simgeler</string>
+	<key>Vertical mode</key>
+	<string>Dikey Mod</string>
+	<key>Window</key>
+	<string>Pencere</string>
+	<key>Window gradient</key>
+	<string>Pencere’yi Vurgula</string>
+</dict>
+</plist>
